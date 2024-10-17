@@ -7,7 +7,7 @@ O **Cyber Kill Chain** é um modelo desenvolvido pela Lockheed Martin que descre
 1. **Reconhecimento (Reconnaissance)**  
    O atacante coleta informações sobre o alvo, como endereços de IP, domínios e vulnerabilidades públicas, usando ferramentas de varredura, sites públicos ou engenharia social.
 
-2. **Armazenamento (Weaponization)**  
+2. **Armamento (Weaponization)**  
    Após coletar informações, o invasor cria uma carga maliciosa (payload), geralmente combinando uma vulnerabilidade explorada com um malware ou backdoor, que será utilizado na próxima fase.
 
 3. **Entrega (Delivery)**  
